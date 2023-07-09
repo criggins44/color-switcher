@@ -1,0 +1,13 @@
+body {
+	background-color: white;
+	height: 100%;
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+#selector {
+	text-align: center;
+}
